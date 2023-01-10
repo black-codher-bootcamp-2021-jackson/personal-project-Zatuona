@@ -1,0 +1,1 @@
+// GET  /logout   // destroys session and redirects to homepage

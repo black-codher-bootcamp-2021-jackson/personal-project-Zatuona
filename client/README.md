@@ -20,7 +20,7 @@ In the example we have provided the below for you to see:
 
 In the `services/` folder there is an example [`profileService.js`](./src/services/profileService.js). The sole purpose of this file is to create various fetch requests to our profile API and return the data to be used by any component.
 
-You can see an example of a get request using the popular javascript library [axios](https://axios-http.com/docs/example). Axios can help us save time by writing less code amongst it's many benefits.
+You can see an example of a get request using the popular javascript library [axios](https://axios-http.com /docs/example). Axios can help us save time by writing less code amongst it's many benefits.
 
 ## Getting Started
 

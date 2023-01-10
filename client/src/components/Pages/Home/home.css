@@ -1,0 +1,231 @@
+/* 
+.UserPage {position: relative;
+    width: 360px;
+    height: 640px;
+    
+    background: linear-gradient(180deg, #F20808 0%, rgba(252, 167, 67, 0.9) 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+} */
+
+
+
+.backgroundgif {
+  /* background-image: url(https://drive.google.com/file/d/12oz4xN-vgdIyQHIqDRyzzIwoaPnLeI2G/view?usp=sharing); */
+  width: 90%;
+  border-radius: 71pt;
+  margin-top: -65px;
+  /* left: -5rem; */
+  margin-left: 14pt;
+}
+
+
+.HomePageLogo {
+  position: relative;
+  height: 100%;
+  width: 34%;
+  left: 36%;
+  margin-top: 13.3%;
+}
+
+.HomePageTitle {
+  font-family: 'Barlow', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.25rem;
+  line-height: 33pt;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #000000;
+  top: 31px;
+  position: relative;
+  margin-bottom: 133px;
+  left: 8px;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300);
+.homepage-Frame {
+  position: absolute;
+  /* top: 30%; */
+  /* left: 53%; */
+  width: 100%;
+  height: 210%;
+  /* margin-top: -200px; */
+  /* margin-left: -200px; */
+  /* border-radius: 2px; */
+  box-shadow: 1px 2px 10px 0px rgb(0 0 0 / 30%);
+  background: white;
+  color: #786450;
+  font-family: "Open Sans", Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 81%;
+    width: 80%;
+    background: #fff;
+    border-radius: 7%;
+    overflow: hidden;
+    box-shadow: 0px 10px 15px 0 rgb(0 0 0 / 30%);
+}
+
+/* .profile {
+  float: left;
+  width: 100%;
+  height: 92%;
+  text-align: center;
+  margin-top: 13%;
+} */
+
+
+
+
+ .actions {
+    margin-top: 57%;
+}
+.actions .homepage-login-btn {
+  display: block;
+  width: 120px;
+  height: 30px;
+  margin: 0 auto 10px auto;
+  background: none;
+  border: 1px solid #786450;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: 600;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+  color: #786450;
+}
+
+ .actions .signup-btn {
+  display: block;
+  width: 120px;
+  height: 30px;
+  margin: 0 auto 10px auto;
+  background: none;
+  border: 1px solid #786450;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: 600;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+  color: #786450;}
+
+  .actions .signup-btn:hover {
+    background: #ff6060;
+    color: #fff;
+  }
+
+
+
+.actions .homepage-login-btn:hover {
+  background: #786450;
+  color: #fff;
+}
+
+.stats {
+  float: left;
+}
+.stats .box {
+  box-sizing: border-box;
+  width: 120px;
+  height: 99px;
+  background: #f5e8df;
+  text-align: center;
+  padding-top: 28px;
+  transition: all 0.4s ease-in-out;
+}
+.stats .box:hover {
+  background: #e1cfc2;
+  cursor: pointer;
+}
+.stats .box:nth-child(2) {
+  margin: 1px 0;
+}
+.stats span {
+  display: block;
+}
+.stats .value {
+  font-size: 18px;
+  font-weight: 600;
+}
+.stats .parameter {
+  font-size: 11px;
+}
+
+.profile.points-div{
+    margin-top: 50px;
+}
+
+p {
+    margin-top: 17%;
+    margin-bottom: -17%;
+    font-weight: bold;
+}
+
+.Homepage-subheading {
+  word-wrap: break-word;
+  /* width: 88%; */
+  margin-left: 29pt;
+  margin-right: 20pt;
+  font-size: 87%;
+  margin-top: 67pt;
+}
+
+
+.homepage-main-text {
+  word-wrap: break-word;
+  /* width: 88%; */
+  margin-left: 29pt;
+  margin-right: 20pt;
+  font-size: 87%;
+  margin-top: 66px;
+}
+
+.homepage-list {
+  margin-top: 44px;
+  margin-bottom: 1rem;
+
+
+}
+
+
+  .homepage-h2 {
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20pt;
+    line-height: 33pt;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    top: 74px;
+    position: relative;
+    margin-bottom: 133px;
+    left: -82px;
+}
+
+.homepage-letsget-h2 {
+  font-family: 'Barlow', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20pt;
+  line-height: 33pt;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #000000;
+  top: 116px;
+  position: relative;
+  margin-bottom: -52px;
+  left: -40px;
+}
+
+.actions {
+  float: inline-end;
+}
